@@ -170,7 +170,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tquz,
+    image: tquiz,
     source_code_link: "https://github.com/CrazyArpan/Tech-Quiz",
   },
 ];

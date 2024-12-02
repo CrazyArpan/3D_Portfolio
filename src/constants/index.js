@@ -120,7 +120,7 @@ import {
     },
     {
       testimonial:
-        "After Arpan optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Arpan optimized our website, our traffic increased by 50%. We can't thank him enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
@@ -151,25 +151,22 @@ import {
       source_code_link: "https://github.com/CrazyArpan/Password-Manager",
     },
     {
-      name: "Music Player",
+      name: "Tech Quiz",
       description:
-        "A minimilistic web based music player.",
+        "A simple tech quiz based on programming languages.",
       tags: [
         {
-          name: "HTML",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "CSS",
+          name: "tailwind",
           color: "green-text-gradient",
         },
-        {
-          name: "JavaScript",
-          color: "pink-text-gradient",
-        },
+        
       ],
-      image: music,
-      source_code_link: "https://github.com/",
+      image: tquiz,
+      source_code_link: "https://github.com/CrazyArpan/3D_Portfolio",
     },
   ];
   

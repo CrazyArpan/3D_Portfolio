@@ -16,7 +16,6 @@ import {
     figma,
     threejs,
     passmanager,
-    
     tquiz
   } from "../assets";
   
@@ -166,7 +165,7 @@ import {
         },
         
       ],
-      image: tquiz,
+      iimage: tquiz,
       source_code_link: "https://github.com/CrazyArpan/Tech-Quiz",
     },
   ];

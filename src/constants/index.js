@@ -16,7 +16,7 @@ import {
     figma,
     threejs,
     passmanager,
-    music
+    tquiz
   } from "../assets";
   
   export const navLinks = [
@@ -150,7 +150,24 @@ import {
       image: passmanager,
       source_code_link: "https://github.com/CrazyArpan/Password-Manager",
     },
-    
+    {
+      name: "Tech Quiz",
+      description:
+        "A simple tech quiz based on programming languages.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "green-text-gradient",
+        },
+        
+      ],
+      image: tquiz,
+      source_code_link: "https://github.com/CrazyArpan/Tech-Quiz",
+    },
   ];
   
   export { services, technologies, testimonials, projects };

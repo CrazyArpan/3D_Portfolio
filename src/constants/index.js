@@ -18,7 +18,6 @@ import {
   threejs,
   passmanager,
   music,
-  tquiz
 } from "../assets";
 
 // Navigation links
@@ -155,23 +154,6 @@ const projects = [
     ],
     image: passmanager,
     source_code_link: "https://github.com/CrazyArpan/Password-Manager",
-  },
-  {
-    name: "Tech-Quiz",
-    description:
-      "A simple tech quiz based on programing languages",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tquz,
-    source_code_link: "https://github.com/CrazyArpan/Tech-Quiz",
   },
 ];
 

@@ -18,7 +18,6 @@ import {
   threejs,
   passmanager,
   music,
-  tquiz
 } from "../assets";
 
 // Navigation links

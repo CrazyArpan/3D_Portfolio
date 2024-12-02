@@ -166,7 +166,7 @@ import {
         
       ],
       image: tquiz,
-      source_code_link: "https://github.com/CrazyArpan/3D_Portfolio",
+      source_code_link: "https://github.com/CrazyArpan/Tech-Quiz",
     },
   ];
   

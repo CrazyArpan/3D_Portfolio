@@ -16,7 +16,8 @@ import {
   git,
   figma,
   threejs,
-  passmanager
+  passmanager,
+  tquiz
 } from "../assets";
 
 // Navigation links
@@ -154,7 +155,23 @@ const projects = [
     image: passmanager,
     source_code_link: "https://github.com/CrazyArpan/Password-Manager",
   },
-  
+  {
+    name: "Tech-Quiz",
+    description:
+      "A web-based platform that allows users to save, edit, delete, and copy passwords, usernames, and site details in one place.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tquiz,
+    source_code_link: "https://github.com/CrazyArpan/Tech-Quiz",
+  },
 ];
 
 // Exporting all data

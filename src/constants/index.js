@@ -158,7 +158,7 @@ const projects = [
   {
     name: "Tech-Quiz",
     description:
-      "A web-based platform that allows users to save, edit, delete, and copy passwords, usernames, and site details in one place.",
+      "A simple tech quiz based on programing languages",
     tags: [
       {
         name: "react",

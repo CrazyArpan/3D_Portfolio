@@ -33,7 +33,7 @@ export const navLinks = [
 ];
 
 // Services offered
-const services = [
+export const services = [
   {
     title: "Web Developer",
     icon: web,
@@ -53,7 +53,7 @@ const services = [
 ];
 
 // Technologies used
-const technologies = [
+export const technologies = [
   {
     name: "HTML 5",
     icon: html,
@@ -105,7 +105,7 @@ const technologies = [
 ];
 
 // Testimonials from clients
-const testimonials = [
+export const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Arpan proved me wrong.",
@@ -133,7 +133,7 @@ const testimonials = [
 ];
 
 // Project details
-const projects = [
+export const projects = [
   {
     name: "PassOp",
     description:
@@ -173,6 +173,3 @@ const projects = [
     source_code_link: "https://github.com/CrazyArpan/Tech-Quiz",
   },
 ];
-
-// Exporting all data
-export { services, technologies, testimonials, projects };

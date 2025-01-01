@@ -29,6 +29,7 @@ import tesla from "./company/tesla.png";
 import passmanager from "./passmanager.png";
 import music from "./music.png";
 import tquiz from "./tquiz.png";
+import weather from "./weather.png";
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   passmanager,
   music,
   tquiz,
+  weather
 };

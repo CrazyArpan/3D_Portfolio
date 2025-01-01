@@ -176,7 +176,7 @@ const projects = [
   {
     name: "Weather-App",
     description:
-      "A simple weather app to check weather of given location",
+      "A simple & responsive weather app to check weather of given location, with theme toggle button",
     tags: [
       {
         name: "react",

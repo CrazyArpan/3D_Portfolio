@@ -17,7 +17,8 @@ import {
   figma,
   threejs,
   passmanager,
-  tquiz
+  tquiz,
+  weather
 } from "../assets";
 
 // Navigation links
@@ -171,6 +172,23 @@ const projects = [
     ],
     image: tquiz,
     source_code_link: "https://github.com/CrazyArpan/Tech-Quiz",
+  },
+  {
+    name: "Weather-App",
+    description:
+      "A simple weather app to check weather of given location",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: weather,
+    source_code_link: "https://github.com/CrazyArpan/weather",
   },
 ];
 
